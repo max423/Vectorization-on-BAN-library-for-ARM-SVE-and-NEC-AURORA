@@ -1,0 +1,1 @@
+/home/tesi1/c/rel/bin/clang++  -target ve-linux -O3 CMakeFiles/run_simplexv.dir/run_simplex.cpp.o -o run_simplexv  liblibnasimplexv.a ../../src/libcppbanv.a 

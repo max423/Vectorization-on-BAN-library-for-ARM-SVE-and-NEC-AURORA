@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibnasimplexv.a CMakeFiles/libnasimplexv.dir/src/NA_Simplex.cpp.o
+/usr/bin/ranlib liblibnasimplexv.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibnasimplexvalidate.a CMakeFiles/libnasimplexvalidate.dir/src/NA_Simplex_validate.cpp.o
+/usr/bin/ranlib liblibnasimplexvalidate.a

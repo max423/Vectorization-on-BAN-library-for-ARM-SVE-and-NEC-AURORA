@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcppban.a CMakeFiles/cppban.dir/ban.cpp.o
+/usr/bin/ranlib libcppban.a

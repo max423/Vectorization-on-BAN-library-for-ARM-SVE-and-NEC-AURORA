@@ -1,0 +1,1 @@
+armclang++  -march=armv8.2-a+sve -O3 CMakeFiles/run_simplexv.dir/run_simplex.cpp.o -o run_simplexv  liblibnasimplexv.a ../../src/libcppbanv.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcppbanv.a CMakeFiles/cppbanv.dir/banv.cpp.o
+/usr/bin/ranlib libcppbanv.a

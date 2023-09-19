@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cppban/ban.h
+iostream
+-
+stdexcept
+-
+cmath
+-
+fstream
+-
+iomanip
+-
+cstring
+-
+
+../include/cppban/banintrinSVE.h
+arm_sve.h
+-
+limits.h
+-
+
+/home/marco/R3/src/banv.cpp
+ban.h
+/home/marco/R3/src/ban.h
+banintrinSVE.h
+/home/marco/R3/src/banintrinSVE.h
+iostream
+-
+stdio.h
+-
+

@@ -1,4 +1,4 @@
-# Vectorization-on-BAN-library-for-ARM-SVE-NEC-AURORA
+# Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA
 In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. 
 
 <img width="560" alt="vec" src="https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-NEC-AURORA/assets/61793103/5edd11b9-5406-4ef8-b64f-365822e92380">
